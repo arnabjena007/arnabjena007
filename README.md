@@ -6,7 +6,7 @@
 </head>
 <body>
 <div align="center">
-  <img align="center" width="30%" src="GIF.gif:">
+  ![Profile](GIF.gif)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
   <h1 style="color: #6D28D9;">Hi, I'm Arnab Jena</h1>
   <h3 style="color: #9333EA;">A Passionate Coding Enthusiast</h3>
