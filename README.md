@@ -32,7 +32,6 @@
 
 <!-- Additional profile content -->
 <div align="center">
-  <img align="right" width="30%" src="img.png" alt="Coding Image" />
 
   <ul>
     <li>👨‍💻 Explore my projects on <a href="https://github.com/arnabjena007">GitHub</a></li>
