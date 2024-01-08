@@ -7,10 +7,6 @@
 <body>
 <div align="center">
   <img src="GIF.gif" alt="Profile GIF">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
-  <h1 style="color: #6D28D9;">Hi, I'm Arnab Jena</h1>
-  <h3 style="color: #9333EA;">A Passionate Coding Enthusiast</h3>
-  <hr>
   <a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" style="background-color: transparent;">
   </a>
