@@ -34,7 +34,7 @@
   </a>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a>
 </p>
 <p align="left">
