@@ -39,25 +39,26 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arnabjena/](https://www.linkedin.com/in/arnabjena/
 
-  <hr>
+<hr>
 
-  <h2>About Me:</h2>
-  <p>Passionate student of Mount Carmel School, Chandigarh. Effective communicator with strong leadership skills. Pursuing B Tech. at Manipal Institute of Technology in Computer Science Engineering (Artificial Intelligence). Committed to teamwork, personal growth, and technical proficiency in Python, HTML, SQL. Open to collaborative opportunities.</p>
+<h2>About Me:</h2>
+<p>Passionate student of Mount Carmel School, Chandigarh. Effective communicator with strong leadership skills. Pursuing B Tech. at Manipal Institute of Technology in Computer Science Engineering (Artificial Intelligence). Committed to teamwork, personal growth, and technical proficiency in Python, HTML, SQL. Open to collaborative opportunities.</p>
   
-  <hr>
+<hr>
 
 <div class="social-icons">
 <h2>Connect with me:</h2>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/arnabjena11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabjena11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnabjena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnabjena" height="30" width="40" /></a>
 <a href="https://instagram.com/arnab.jena02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnab.jena02" height="30" width="40" /></a>
 </p>
-  <hr>
+  
+<hr>
 
-  <h2>Skills:</h2>
-  <div>
-    <p align="center">
+<h2>Skills:</h2>
+<div>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
@@ -77,7 +78,7 @@
 </p>
 </div>
 
-  <p align="center">Made with ❤️</p>
+<p align="center">Made with ❤️</p>
 
 </body>
 </html>
