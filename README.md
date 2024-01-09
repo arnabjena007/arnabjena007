@@ -14,6 +14,7 @@
   <a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </a>
+  <br><br>
   <a href="https://github.com/arnabjena007" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=arnabjena007&column=7&margin-w=10&margin-h=10&theme=onedark" alt="Trophy" style="background-color: transparent;" />
   </a>
