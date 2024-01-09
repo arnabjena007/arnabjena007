@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Arnab Jena - Coding Enthusiast</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
@@ -32,10 +31,13 @@
 </div>
 
 <!-- Additional profile content -->
-  <ul>
-    <li>👨‍💻 Explore my projects on <a href="https://github.com/arnabjena007">GitHub</a></li>
-    <li>📧 Reach out to me at <strong>arnabjena2003@gmail.com</strong></li>
-  </ul>
+  <p align="left"> <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a> </p>
+
+- 👨‍💻 Portfolio Website [https://portfolio-website-arnabs-projects.vercel.app/](https://portfolio-website-arnabs-projects.vercel.app/)
+
+- 📫 How to reach me **arnabjena2003@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/arnabjena/](https://www.linkedin.com/in/arnabjena/
 
   <hr>
 
@@ -44,25 +46,13 @@
   
   <hr>
 
-  <div class="social-icons">
-    <h2>Connect with me:</h2>
-    <div>
-      <a href="https://twitter.com/ArnabJena11" target="_blank">
-        <i class="fab fa-twitter" style="color: #1DA1F2;"></i>
-      </a>
-      <a href="https://www.instagram.com/arnab.jena02/?hl=en" target="_blank">
-        <i class="fab fa-instagram" style="color: #E1306C;"></i>
-      </a>
-      <a href="https://www.quora.com/profile/Arnab-Jena-4/?hl=en" target="_blank">
-        <i class="fab fa-quora" style="color: #B92B27;"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/arnabjena/" target="_blank">
-        <i class="fab fa-linkedin" style="color: #0077B5;"></i>
-      </a>
-      <!-- Add more social media icons here -->
-    </div>
-  </div>
-
+<div class="social-icons">
+<h2>Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/arnabjena11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabjena11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arnabjena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnabjena" height="30" width="40" /></a>
+<a href="https://instagram.com/arnab.jena02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnab.jena02" height="30" width="40" /></a>
+</p>
   <hr>
 
   <h2>Skills:</h2>
