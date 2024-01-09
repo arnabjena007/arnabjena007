@@ -34,15 +34,16 @@
   </a>
 </div>
 
-  <p align="left"> <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a> </p>
-  <p align="left">
-- 👨‍💻 [Portfolio Website](https://portfolio-website-arnabs-projects.vercel.app/)
-
-- 📫 How to reach me **arnabjena2003@gmail.com**
-
-- 📄 [Know about my experiences](https://www.linkedin.com/in/arnabjena/)
+<p align="left">
+  <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a>
+</p>
+<p align="left">
+  - 👨‍💻 <a href="https://portfolio-website-arnabs-projects.vercel.app/">Portfolio Website</a><br>
+  - 📫 How to reach me <strong>arnabjena2003@gmail.com</strong><br>
+  - 📄 <a href="https://www.linkedin.com/in/arnabjena/">Know about my experiences</a>
 </p>
 <hr>
+
 
 <h2>About Me:</h2>
 <p>Passionate student of Mount Carmel School, Chandigarh. Effective communicator with strong leadership skills. Pursuing B Tech. at Manipal Institute of Technology in Computer Science Engineering (Artificial Intelligence). Committed to teamwork, personal growth, and technical proficiency in Python, HTML, SQL. Open to collaborative opportunities.</p>
