@@ -10,11 +10,12 @@
   <h1 style="color: #6D28D9;">Hi, I'm Arnab Jena</h1>
   <h3 style="color: #9333EA;">A Passionate Coding Enthusiast</h3>
   <hr>
-  <a href="https://github.com/arnabjena007" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnabjena007&column=7&margin-w=10&margin-h=10&theme=onedark" alt="Trophy" style="background-color: transparent;" />
-  </a>
+  <div align="center">
   <a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  </a>
+  <a href="https://github.com/arnabjena007" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnabjena007&column=7&margin-w=10&margin-h=10&theme=onedark" alt="Trophy" style="background-color: transparent;" />
   </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=arnabjena007&show_icons=true&theme=dark" alt="GitHub Stats">
