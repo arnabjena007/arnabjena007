@@ -36,11 +36,11 @@
 
   <p align="left"> <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a> </p>
 
-- 👨‍💻 Portfolio Website []https://portfolio-website-arnabs-projects.vercel.app/)
+- 👨‍💻 [Portfolio Website]https://portfolio-website-arnabs-projects.vercel.app/)
 
 - 📫 How to reach me **arnabjena2003@gmail.com**
 
-- 📄 Know about my experiences [Linkdin Profile](https://www.linkedin.com/in/arnabjena/)
+- 📄 [Know about my experiences](https://www.linkedin.com/in/arnabjena/)
 
 <hr>
 
