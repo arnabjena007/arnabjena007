@@ -10,28 +10,27 @@
   <h1 style="color: #6D28D9;">Hi, I'm Arnab Jena</h1>
   <h3 style="color: #9333EA;">A Passionate Coding Enthusiast</h3>
   <hr>
-  <div align="center">
+<div align="center">
   <a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </a>
   <a href="https://github.com/arnabjena007" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnabjena007&column=7&margin-w=10&margin-h=10&theme=onedark" alt="Trophy" style="background-color: transparent;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arnabjena007&column=7&margin-w=10&margin-h=10&theme=onedark" alt="Trophy" style="background-color: transparent;" />
   </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=arnabjena007&show_icons=true&theme=dark" alt="GitHub Stats">
   <br><br>
   <a href="https://github.com/arnabjena007/github-readme-activity-graph" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabjena007&layout=compact&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabjena007&layout=compact&theme=dark" alt="Top Languages">
   </a>
   <br><br>
   <a href="https://github.com/arnabjena007/github-readme-activity-graph" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabjena007&theme=dark" alt="GitHub Activity Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabjena007&theme=dark" alt="GitHub Activity Streak">
   </a>
   <br><br>
   <a href="https://github.com/arnabjena007/github-readme-activity-graph" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabjena007&theme=dracula" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabjena007&theme=dracula" alt="GitHub Activity Graph">
   </a>
-  
 </div>
 
   <p align="center"> <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a> </p>
