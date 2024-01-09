@@ -5,8 +5,11 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
+
 <div align="center">
-  <img src="GIF.gif" alt="Profile GIF">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"> <h1 style="color: #6D28D9;">Hi, I'm Arnab Jena</h1>
+  <h3 style="color: #9333EA;">A Passionate Coding Enthusiast</h3>
+  <hr>
   <a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" style="background-color: transparent;">
   </a>
@@ -28,6 +31,7 @@
 
 <!-- Additional profile content -->
 <div align="center">
+  <img align="right" width="30%" src="img.png" alt="Coding Image" />
 
   <ul>
     <li>👨‍💻 Explore my projects on <a href="https://github.com/arnabjena007">GitHub</a></li>
