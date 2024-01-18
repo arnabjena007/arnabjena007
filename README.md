@@ -46,8 +46,10 @@
 
 
 <h2>About Me:</h2>
-<p>Passionate student of Mount Carmel School, Chandigarh. Effective communicator with strong leadership skills. Pursuing B Tech. at Manipal Institute of Technology in Computer Science Engineering (Artificial Intelligence). Committed to teamwork, personal growth, and technical proficiency in Python, HTML, SQL. Open to collaborative opportunities.</p>
-  
+<p align="left">
+- 1
+- 2
+- 3
 <hr>
 
 <div class="social-icons">
