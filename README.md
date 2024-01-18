@@ -45,12 +45,13 @@
 <hr>
 
 ## About Me
-
+<p align="left">
 - CS'27 at Manipal Institute of Technology 🖥️
 - Executive Member at MITB ACM | Graphic Designer at CodeX 🎨
 - Passionate about Python, HTML, SQL 💻📊
 - AI enthusiast with certifications in AI and Figma 🚀
 - Former Head Boy, currently fostering teamwork and personal growth 🌟
+</p>
 
 <div class="social-icons">
 <h2>Connect with me:</h2>
