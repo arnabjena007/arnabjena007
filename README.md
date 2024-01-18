@@ -33,7 +33,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabjena007&theme=dracula" alt="GitHub Activity Graph">
   </a>
 </div>
-
+<h2>About Me:</h2>
 <p align="center">
   <a href="https://twitter.com/arnabjena11" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjena11?logo=twitter&style=for-the-badge" alt="arnabjena11" /></a>
 </p>
@@ -44,7 +44,6 @@
 </p>
 <hr>
 
-<h2>About Me:</h2>
 <ul align="left">
     <li>CS'27 at Manipal Institute of Technology 🖥️</li>
     <li>Executive Member at MITB ACM | Graphic Designer at CodeX 🎨</li>
