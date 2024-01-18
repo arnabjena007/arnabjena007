@@ -44,14 +44,15 @@
 </p>
 <hr>
 
-## About Me
-<p align="left">
-  - CS'27 at Manipal Institute of Technology 🖥️
-  - Executive Member at MITB ACM | Graphic Designer at CodeX 🎨
-  - Passionate about Python, HTML, SQL 💻📊
-  - AI enthusiast with certifications in AI and Figma 🚀
-  - Former Head Boy, currently fostering teamwork and personal growth 🌟
-</p>
+<h2>About Me:</h2>
+<ul align="left">
+    <li>CS'27 at Manipal Institute of Technology 🖥️</li>
+    <li>Executive Member at MITB ACM | Graphic Designer at CodeX 🎨</li>
+    <li>Passionate about Python, HTML, SQL 💻📊</li>
+    <li>AI enthusiast with certifications in AI and Figma 🚀</li>
+    <li>Former Head Boy, currently fostering teamwork and personal growth 🌟</li>
+</ul>
+
 
 <div class="social-icons">
 <h2>Connect with me:</h2>
