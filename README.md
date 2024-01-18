@@ -46,11 +46,14 @@
 
 
 <h2>About Me:</h2>
-<p align="left">
-- 1
-- 2
-- 3
-<hr>
+    
+    <ul>
+        <li>CS'27 at Manipal Institute of Technology 🖥️</li>
+        <li>Executive Member at MITB ACM | Graphic Designer at CodeX 🎨</li>
+        <li>Passionate about Python, HTML, SQL 💻📊</li>
+        <li>AI enthusiast with certifications in AI and Figma 🚀</li>
+        <li>Former Head Boy, currently fostering teamwork and personal growth 🌟</li>
+    </ul>
 
 <div class="social-icons">
 <h2>Connect with me:</h2>
