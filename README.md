@@ -23,7 +23,7 @@
 <td width="50%" align="center">
 
 #### 🏆 GitHub Trophies  
-<img src="https://github-profile-trophy.vercel.app/?username=arnabjena007&theme=onedark&margin-w=10"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/arnabjena007/github-profile-trophy)
 
 </td>
 <td width="50%" align="center">
@@ -76,3 +76,4 @@
 
 </body>
 </html>
+
