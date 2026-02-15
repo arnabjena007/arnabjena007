@@ -1,79 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-
-<body>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-  <h1>Hi, I'm Arnab Jena</h1>
-  <p><em>Engineering student • Builder • Curious about systems & interfaces</em></p>
 
+<h1>Arnab Jena</h1>
+
+<p>
+Engineering student focused on systems, interfaces, and building meaningful tools.
+</p>
+
+<p>
+<a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=6366F1&style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=6366F1&style=flat-square"/>
+</a>
+</p>
+
 </div>
 
 ---
 
-### 📊 Bento Grid
+## About
 
-<table>
-<tr>
-<td width="50%" align="center">
+I am an engineering student interested in:
 
-#### 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/arnabjena007/github-profile-trophy)
-
-</td>
-<td width="50%" align="center">
-
-#### 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=arnabjena007&show_icons=true&theme=dark"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-#### 🔥 Streak  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabjena007&theme=dark"/>
-
-</td>
-<td width="50%" align="center">
-
-#### 🧠 Top Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabjena007&layout=compact&theme=dark"/>
-
-</td>
-</tr>
-</table>
+- Systems and infrastructure  
+- Interfaces and user experience  
+- Data, computation, and public systems  
+- Creative and interdisciplinary technology  
 
 ---
 
-### 🌐 Connect
+## GitHub Stats
 
 <p align="center">
-  <a href="https://twitter.com/arnabjena11">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/arnabjena">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/arnab.jena02">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arnabjena007&show_icons=true&theme=default"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabjena007&layout=compact&theme=default"/>
+
+</p>
+
+---
+
+## Links
+
+<p align="center">
+
+<a href="https://linkedin.com/in/arnabjena">LinkedIn</a> |
+<a href="https://twitter.com/arnabjena11">Twitter</a> |
+<a href="https://instagram.com/arnab.jena02">Instagram</a>
+
 </p>
 
 ---
 
 <div align="center">
-📫 <strong>arnabjena2003@gmail.com</strong>  
-<br/><br/>
-<em>Made with ❤️ and curiosity</em>
-</div>
 
-</body>
-</html>
+arnabjena2003@gmail.com
+
+</div>
 
