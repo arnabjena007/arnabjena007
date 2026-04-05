@@ -7,8 +7,7 @@ Engineering student focused on systems, interfaces, and building meaningful tool
 </p>
 
 <p>
-<a href="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=6366F1&style=flat-square">
-  <img src="https://komarev.com/ghpvc/?username=arnabjena007&label=Profile%20Views&color=6366F1&style=flat-square"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabjena007&theme=tokyonight" alt="mystreak"/>
 </a>
 </p>
 
