@@ -24,20 +24,6 @@ I am an engineering student interested in:
 - Data, computation, and public systems  
 - Creative and interdisciplinary technology  
 
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arnabjena007&show_icons=true&theme=default"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabjena007&layout=compact&theme=default"/>
-
-</p>
-
----
-
 ## Links
 
 <p align="center">
