@@ -15,15 +15,6 @@ Engineering student focused on systems, interfaces, and building meaningful tool
 
 ---
 
-## About
-
-I am an engineering student interested in:
-
-- Systems and infrastructure  
-- Interfaces and user experience  
-- Data, computation, and public systems  
-- Creative and interdisciplinary technology  
-
 ## Links
 
 <p align="center">
