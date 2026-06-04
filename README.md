@@ -29,6 +29,8 @@ Engineering student focused on systems, interfaces, and building meaningful tool
 
 <div align="center">
 
+![Arctic Code Vault](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-0366d6?style=flat-square&logo=github&logoColor=white)
+
 arnabjena2003@gmail.com
 
 </div>
